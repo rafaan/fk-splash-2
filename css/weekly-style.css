@@ -72,6 +72,8 @@ html {
     font-weight: 400;
     border-bottom: 1px solid #FFF;
     display: inline-block;
+    text-align: center;
+    padding-top: 20px;
 }
 .icon-integration {
     margin-top: 10px;
