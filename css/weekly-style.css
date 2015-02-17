@@ -270,7 +270,7 @@ a.author-1-company:hover {
     margin-top: 50px;
     text-align: center;
     border-top: 1px solid #E0E0E0;
-    padding: 30px;
+    padding: 30px 0px;
 }
 .startup {
     display: inline-block;
@@ -287,12 +287,14 @@ a.author-1-company:hover {
 .lifehacker-logo { background-image: url(../img/lifehacker-logo-sm.png) }
 .reddit-logo { background-image: url(../img/reddit-logo-sm.png) }
 .laughing-squid-logo { background-image: url(../img/laughing-squid-logo-sm.png) }
+.awesomer-logo { background-image: url(../img/awesomer-logo-sm.png) }
 @media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi) { 
     .startup-logo { background-size: 150px 45px }
     .product-hunt-logo { background-image: url(../img/product-hunt-logo-2X.png) }
     .lifehacker-logo { background-image: url(../img/lifehacker-logo-2X.png) }
     .reddit-logo { background-image: url(../img/reddit-logo-2X.png) }
     .laughing-squid-logo { background-image: url(../img/laughing-squid-logo-2X.png) }
+    .awesomer-logo { background-image: url(../img/awesomer-logo-2X.png) }
 }
 .startups-use {
     color: #bdc8bf;
