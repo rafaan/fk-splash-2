@@ -69,14 +69,16 @@ html {
     font-style: italic;
 }
 .em-integration {
-    font-weight: 400;
     border-bottom: 1px solid #FFF;
     display: inline-block;
-    text-align: center;
-    padding-top: 20px;
-    color: white;
     font-family: 'Lato', sans-serif;
-    font-size: 18px;
+    font-size: 28px;
+    font-weight: 300;
+    color: #FFF;
+}
+.cycling-words {
+    margin-top: 30px;
+    text-align: center;
 }
 .icon-integration {
     margin-top: 10px;
