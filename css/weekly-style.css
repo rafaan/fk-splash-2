@@ -365,7 +365,7 @@ a.author-1-company:hover {
 .testimonial-2 {
     line-height: 48px;
     margin-bottom: 20px;
-    color: #36A64F;
+    color: #555459;
 }
 .author-2 { font-size: 27px }
 .author-2-name { font-weight: 400 }
@@ -457,6 +457,9 @@ a.author-2-company:hover {
     font-weight: 300;
     font-size: 30px;
     margin-bottom: 10px;
+}
+.pink {
+    color: #EE7A81;
 }
 .copyright {
     margin-top: 40px;
