@@ -41,7 +41,7 @@ html {
     background-position: bottom left;
     width: 100%;
     min-width: 920px;
-    height: 630px;
+    height: 650px;
     padding-top: 30px;
 }
 .logo {
@@ -74,7 +74,6 @@ html {
     display: inline-block;
     text-align: center;
     padding-top: 20px;
-    margin: auto;
     color: white;
     font-family: 'Lato', sans-serif;
     font-size: 18px;
