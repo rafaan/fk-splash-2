@@ -86,13 +86,13 @@ html {
 }
 .weekly-forekast {
     font-family: 'Satisfy', cursive;
-    font-size: 65px;
+    font-size: 80px;
     line-height: 85px;
     font-weight: 700;
     color: #FFF;
     text-shadow: 0 1px 10px rgba(0,0,0,.5);
     text-align: center;
-    margin-top: 30px;
+    margin-top: 100px;
 }
 .weekly-forekast-dark {
     font-family: 'Satisfy', cursive;
@@ -133,11 +133,11 @@ html {
     background-color: rgba(0,0,0,.2);
     width: 100%;
     height: 185px;
-    margin-top: 83px;
+    margin-top: 80px;
 }
 .calltoaction-message {
     text-align: center;
-    padding-top: 20px;
+    padding-top: 30px;
     color: #FFF;
     font-size: 20px;
     font-weight: 400;
@@ -256,11 +256,16 @@ a.tagline-follow-button:active {
     line-height: 48px;
     margin-bottom: 20px;
 }
-.author-1 { font-size: 30px }
-.author-1-name { font-weight: 400 }
+.author-1 { 
+    font-size: 20px 
+}
+.author-1-name { 
+    font-weight: 400 
+}
 a.author-1-company {
     font-weight: 400;
     color: #2A80B9;
+    font-size: 20px;
 }
 a.author-1-company:hover {
     color: #439FE0;
@@ -366,11 +371,15 @@ a.author-1-company:hover {
     margin-bottom: 20px;
     color: #555459;
 }
-.author-2 { font-size: 27px }
-.author-2-name { font-weight: 400 }
+.author-2 { font-size: 20px }
+.author-2-name { 
+    font-weight: 400;
+    font-size: 20px; 
+}
 a.author-2-company {
     font-weight: 400;
     color: #2A80B9;
+    font-size: 20px;
 }
 a.author-2-company:hover {
     color: #439FE0;
