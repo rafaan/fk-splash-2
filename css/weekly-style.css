@@ -131,10 +131,10 @@ html {
     color: #555459;
     text-align: center;
 }
-a.tagline-4 {
+.link-text {
 color: #2A80B9;
 }
-a.tagline-4:hover {
+.link-text:hover {
 color: #439FE0;
 text-decoration: underline;
 }
