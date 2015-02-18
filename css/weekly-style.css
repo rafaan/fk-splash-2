@@ -125,6 +125,12 @@ html {
     text-align: center;
     padding-bottom: 40px;
 }
+.tagline-4 {
+    font-size: 20px;
+    font-weight: 100;
+    color: #555459;
+    text-align: center;
+}
 .icon-slack {
     margin-top: 10px;
     margin-right: 6px;
@@ -272,7 +278,6 @@ a.author-1-company:hover {
     text-decoration: underline;
 }
 .startups {
-    margin-top: 50px;
     text-align: center;
     border-top: 1px solid #E0E0E0;
     padding: 30px 0px;
@@ -308,7 +313,7 @@ a.author-1-company:hover {
     font-weight: 300px;
 }
 .section-2 {
-    background-color: #46A0E0;
+    background-color: #fff;
     padding: 40px 0;
 }
 .how-it-works { margin-bottom: 20px }
@@ -316,7 +321,7 @@ a.author-1-company:hover {
     font-size: 40px;
     font-weight: 300;
     margin-bottom: 40px;
-    color: #FFF;
+    color: #3D4B5B;
     text-shadow: 0 1px rgba(0,0,0,.15);
     text-align: center;
 }
