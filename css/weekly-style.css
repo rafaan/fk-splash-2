@@ -41,7 +41,7 @@ html {
     background-position: bottom left;
     width: 100%;
     min-width: 920px;
-    height: 650px;
+    height: 600px;
     padding-top: 30px;
 }
 .logo {
@@ -143,7 +143,7 @@ html {
 }
 .calltoaction-message {
     text-align: center;
-    padding-top: 30px;
+    padding-top: 20px;
     color: #FFF;
     font-size: 20px;
     font-weight: 400;
