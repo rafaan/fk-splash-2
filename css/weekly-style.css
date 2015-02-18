@@ -131,6 +131,13 @@ html {
     color: #555459;
     text-align: center;
 }
+a.tagline-4 {
+color: #2A80B9;
+}
+a.tagline-4:hover {
+color: #439FE0;
+text-decoration: underline;
+}
 .icon-slack {
     margin-top: 10px;
     margin-right: 6px;
@@ -315,13 +322,6 @@ a.author-1-company:hover {
 .section-2 {
     background-color: #fff;
     padding-top: 40px;
-}
-a.section-2 {
-color: #2A80B9;
-}
-a.section-2:hover {
-color: #439FE0;
-text-decoration: underline;
 }
 .how-it-works { margin-bottom: 20px }
 .how-it-works-heading {
