@@ -316,6 +316,13 @@ a.author-1-company:hover {
     background-color: #fff;
     padding-top: 40px;
 }
+a.section-2 {
+color: #2A80B9;
+}
+a.section-2:hover {
+color: #439FE0;
+text-decoration: underline;
+}
 .how-it-works { margin-bottom: 20px }
 .how-it-works-heading {
     font-size: 40px;
