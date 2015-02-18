@@ -126,7 +126,7 @@ html {
     padding-bottom: 40px;
 }
 .tagline-4 {
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 100;
     color: #555459;
     text-align: center;
@@ -314,7 +314,7 @@ a.author-1-company:hover {
 }
 .section-2 {
     background-color: #fff;
-    padding: 40px 0;
+    padding-top: 40px;
 }
 .how-it-works { margin-bottom: 20px }
 .how-it-works-heading {
