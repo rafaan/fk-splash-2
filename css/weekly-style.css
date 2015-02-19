@@ -38,7 +38,8 @@ html {
 .section-1 {
     background-image: url(../img/background-2.png);
     background-repeat: no-repeat;
-    background-position: bottom left;
+    background-size: cover;
+    background-position: 50%;
     width: 100%;
     min-width: 920px;
     height: 600px;
