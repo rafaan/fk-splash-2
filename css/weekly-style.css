@@ -39,7 +39,7 @@ html {
     background-image: url(../img/background.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 50%;
+    background-position: bottom;
     width: 100%;
     min-width: 920px;
     height: 600px;
