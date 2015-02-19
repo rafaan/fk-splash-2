@@ -60,7 +60,7 @@ html {
 }
 .purpose {
     margin-top: 50px;
-    font-size: 28px;
+    font-size: 32px;
     font-weight: 300;
     color: #FFF;
     text-align: center;
@@ -121,14 +121,14 @@ html {
 }
 .tagline-3 {
     font-size: 40px;
-    font-weight: 100;
+    font-weight: 300;
     color: #3D4B5B;
     text-align: center;
     padding-bottom: 40px;
 }
 .tagline-4 {
     font-size: 25px;
-    font-weight: 100;
+    font-weight: 300;
     color: #555459;
     text-align: center;
 }
