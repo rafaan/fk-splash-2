@@ -287,6 +287,15 @@ a.tagline-follow-button:active {
     color: #555459;
     background-color: #FFF;
 }
+.testimonial-twitter {
+    padding: 20px 0 40px 0;
+    text-shadow: 0 1px #FFF;
+    font-size: 40px;
+    font-weight: 300;
+    text-align: center;
+    color: #555459;
+    background-color: #FFF;
+}
 .testimonial-1 {
     line-height: 48px;
     margin-bottom: 20px;
@@ -309,6 +318,7 @@ a.author-1-company:hover {
 .startups {
     text-align: center;
     border-top: 1px solid #E0E0E0;
+    border-bottom: 1px solid #E0E0E0;
     padding: 30px 0px;
 }
 .startup {
