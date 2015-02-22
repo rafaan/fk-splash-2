@@ -296,6 +296,9 @@ a.tagline-follow-button:active {
     color: #555459;
     background-color: #FFF;
 }
+.tweet {
+    text-align: center;
+}
 .testimonial-1 {
     line-height: 48px;
     margin-bottom: 20px;
