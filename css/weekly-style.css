@@ -40,8 +40,9 @@ html {
     margin: 0 auto;
 }
 .wrapper-twitter {
-    width: 1000px;
+    width: 500px;
     margin: 0 auto;
+    float: left;
 }
 .section-1 {
     background-image: url(../img/background.png);
