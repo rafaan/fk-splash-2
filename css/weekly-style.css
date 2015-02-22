@@ -46,7 +46,7 @@ html {
     background-position: bottom;
     width: 100%;
     min-width: 920px;
-    height: 600px;
+    height: 620px;
     padding-top: 30px;
 }
 .logo {
@@ -168,7 +168,7 @@ text-decoration: underline;
     background-color: rgba(0,0,0,.1);
     width: 100%;
     height: 185px;
-    margin-top: 80px;
+    margin-top: 50px;
 }
 .calltoaction-message {
     text-align: center;
