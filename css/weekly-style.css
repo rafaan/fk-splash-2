@@ -571,24 +571,6 @@ a.signin-link:hover {
 }
 
 /* ==========================================================================
-Screenshots Intro
-========================================================================== */
-.screenshots-intro {
-    padding: 170px 0 100px 0;
-    background-color: #f6f7f9;
-}
-.screenshots-intro h1 {
-    margin-bottom: 20px;
-    color: #24374b;
-    font-weight: 400;
-    font-size: 22px;
-}
-.screenshots-intro p {
-    margin-bottom: 25px;
-    color: #778899;
-}
-
-/* ==========================================================================
 Screenshots
 ========================================================================== */
 .screenshots ul {
@@ -600,12 +582,13 @@ Screenshots
     float: left;
     min-height: 100%;
     width: 25%;
-    background-color: #000;
+    background-color: #fff;
     list-style: none;
 }
 .screenshots figure {
     position: relative;
     overflow: hidden;
+    border: 2px solid #fff;  
 }
 .screenshots figure img {
     width: 100%;
@@ -625,35 +608,22 @@ Screenshots
     padding: 25% 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(63, 97, 132, 0.85);
+    background-color: rgba(63, 97, 132, 0.65);
     text-align: center;
     font-size: 15px;
-    opacity: 0;
+    opacity: 1;
     -webkit-transition: all 300ms ease-in-out;
     transition: all 300ms ease-in-out;
 }
-.screenshots figcaption a {
-    color: #fff
-}
-.screenshots figcaption a:hover, .screenshots figcaption a:focus {
-    color: #73d0da
-}
-.screenshots figure:hover figcaption, .screenshots figure:focus figcaption {
-    opacity: 1
-}
-.visible {
-    opacity: 1
-}
-.screenshots figure.cs-hover figcaption {
-    opacity: 1
-}
-.screenshots figcaption i {
-    font-size: 35px
+.screenshots figcaption:hover {
+    background-color: rgba(63, 97, 132, 0.25);
 }
 .screenshots figcaption p {
     margin-bottom: 0;
     text-transform: uppercase;
     font-weight: 400;
+    font-size: 20px;
+    color: #fff;
 }
 .screenshots figcaption .caption-content {
     position: absolute;
@@ -667,9 +637,12 @@ Screenshots
     transform: translate(0px, 15px);
     -webkit-transition: all 300ms ease-in-out;
     transition: all 300ms ease-in-out;
+    vertical-align: center;
 }
+/*
 .screenshots figure:hover figcaption .caption-content, .screenshots figure:focus figcaption .caption-content {
     -webkit-transform: translate(0px, 0px);
     -ms-transform: translate(0px, 0px);
     transform: translate(0px, 0px);
 }
+*/
