@@ -39,11 +39,6 @@ html {
     width: 1000px;
     margin: 0 auto;
 }
-.wrapper-twitter {
-    width: 500px;
-    margin: 0 auto;
-    float: left;
-}
 .section-1 {
     background-image: url(../img/background.png);
     background-repeat: no-repeat;
