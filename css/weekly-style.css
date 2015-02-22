@@ -46,7 +46,7 @@ html {
     background-position: bottom;
     width: 100%;
     min-width: 920px;
-    height: 630px;
+    height: 600px;
     padding-top: 30px;
 }
 .logo {
@@ -82,9 +82,6 @@ html {
     margin-right: 15px;
     line-height: 63px;
     text-align: center;
-}
-.event-item:hover {
-    opacity: .7;
 }
 .em-keyword {
     font-weight: 400;
@@ -153,6 +150,13 @@ html {
     color: #555459;
     text-align: center;
 }
+.example-event {
+    font-size: 25px;
+    font-weight: 300;
+    color: #fff;
+    text-align: center;
+    margin-top: 10px;
+}
 .link-text {
 color: #2A80B9;
 }
@@ -168,7 +172,7 @@ text-decoration: underline;
     background-color: rgba(0,0,0,.1);
     width: 100%;
     height: 185px;
-    margin-top: 50px;
+    margin-top: 80px;
 }
 .calltoaction-message {
     text-align: center;
@@ -423,6 +427,10 @@ a.author-2-company:hover {
     background-color: #fff;
     padding: 40px 0;
 }
+.section-4 {
+    background-color: #439FE0;
+    padding: 40px 0;
+}
 .features-heading {
     font-size: 40px;
     font-weight: 300;
@@ -434,10 +442,10 @@ a.author-2-company:hover {
 .features-heading-2 {
     font-size: 40px;
     font-weight: 300;
-    color: #3D4B5B;
+    color: #fff;
     text-shadow: 0 1px rgba(0,0,0,.15);
     text-align: center;
-    margin: 40px 0;
+    margin-bottom: 40px;
 }
 .features { 
     margin: 40px 0px;
