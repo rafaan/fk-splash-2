@@ -298,6 +298,8 @@ a.tagline-follow-button:active {
 }
 .tweet {
     text-align: center;
+    width: 500px;
+    margin: auto;
 }
 .testimonial-1 {
     line-height: 48px;
