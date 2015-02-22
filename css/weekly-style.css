@@ -431,6 +431,14 @@ a.author-2-company:hover {
     text-align: center;
     margin-bottom: 40px;
 }
+.features-heading-2 {
+    font-size: 40px;
+    font-weight: 300;
+    color: #3D4B5B;
+    text-shadow: 0 1px rgba(0,0,0,.15);
+    text-align: center;
+    margin: 40px 0;
+}
 .features { 
     margin: 40px 0px;
     text-align: center;
