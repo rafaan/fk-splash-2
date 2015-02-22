@@ -29,6 +29,9 @@ html {
     background-color: #FFF;
     color: #000;
 }
+h1 h2 h3 h4 h5 h6 {
+    font-family: 'Nunito', sans-serif;
+}
 .display-inline-block { display: inline-block }
 .display-none { display: none }
 .wrapper {
@@ -46,7 +49,7 @@ html {
     background-position: bottom;
     width: 100%;
     min-width: 920px;
-    height: 600px;
+    height: 610px;
     padding-top: 30px;
 }
 .logo {
@@ -89,7 +92,7 @@ html {
 }
 .em-integration {
     display: inline-block;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-size: 28px;
     font-weight: 300;
     color: #FFF;
@@ -197,7 +200,7 @@ text-decoration: underline;
 .footer-form-input,
 .tagline-form-input {
     background-color: #FFF;
-    font-family: 'Lato',sans-serif;
+    font-family: 'Nunito',sans-serif;
     font-size: 20px;
     padding: 10px 15px;
     font-weight: 700;
@@ -213,7 +216,7 @@ text-decoration: underline;
     -moz-appearance: none;
     background-color: #439FE0;
     border-bottom: 2px solid #194BA3;
-    font-family: Lato,sans-serif;
+    font-family: 'Nunito',sans-serif;
     font-size: 20px;
     padding: 10px 30px;
     border-radius: 4px;
