@@ -42,6 +42,11 @@ h1 h2 h3 h4 h5 h6 {
     width: 1000px;
     margin: 0 auto;
 }
+.screenshot-wrapper {
+    width: 950px;
+    margin: auto;
+    margin-top: 20px;
+}
 .section-1 {
     background-image: url(../img/background.png);
     background-repeat: no-repeat;
@@ -286,7 +291,7 @@ a.tagline-follow-button:active {
     margin-right: 5px;
 }
 .testimonial-section-1 {
-    padding: 40px 0;
+    padding: 0px 0 40px 0;
     text-shadow: 0 1px #FFF;
     font-size: 40px;
     font-weight: 300;
