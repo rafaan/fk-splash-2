@@ -242,7 +242,8 @@ a.author-1-company:hover {
     margin-bottom: 30px;
 }
 .about-forekast-text {
-    font-size: 25px;
+    font-size: 26px;
+    font-family: 'Lato', sans-serif;
     font-weight: 300;
     color: #555459;
     text-align: left;
@@ -255,7 +256,7 @@ color: #439FE0;
 text-decoration: underline;
 }
 .forekast-screenshot {
-    width: 450px;
+    width: 425px;
     height: auto;
     float: right;
     margin-left: 80px;
